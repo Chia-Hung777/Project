@@ -6,6 +6,8 @@ The objective is to utilize Particle Swarm Optimization (PSO) to find the optima
 Objective: To find the optimal Percentage Generator Client (PGC) matrix. (The lower the objective function value, the better the PGC matrix)
 
 Methods: Particle Swarm Optimization (PSO), Genetic Algorithm (GA), random matrix, and BUFFET.
+
+Dataset: The data covers 24 hours with a unique data point every 15 minutes, totaling 2976 data points per dataset for 31 days.
 # Dataset Visualization
 Power Generation from Each Generator
 
