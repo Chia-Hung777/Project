@@ -4,3 +4,5 @@
 
 # Objective: To find the optimal Percentage Generator Client (PGC) matrix.
 # Methods: Particle Swarm Optimization (PSO), Genetic Algorithm (GA), random matrix, and BUFFET.
+
+![image](datasetgenerator.png)
