@@ -25,5 +25,11 @@ Power Demand from Each Customer (96 Samples)
 
 # Result
 
-![image](96C.png)
+![image](Result.png)
 
+Analysis of Optimization Methods and Random Allocation Results:
+
+Comparison of Optimization Techniques:
+1. Genetic Algorithm: This method achieved the best performance in terms of minimizing the objective value at 295,844. Despite its effectiveness, it has the longest execution time among the three specific optimization techniques at 96.01 seconds.
+2. PSO (Particle Swarm Optimization): PSO, with an objective value of 316,174, did not perform as well as the Genetic Algorithm in minimizing the objective function but was considerably faster, completing in only 32.19 seconds. This efficiency makes it advantageous for scenarios requiring quicker results.
+3. Buffet had the highest objective value among the three optimization methods at 375,742 and also the longest execution time at 236.44 seconds, indicating it may not be the most efficient choice for optimization in terms of both speed and effectiveness.
